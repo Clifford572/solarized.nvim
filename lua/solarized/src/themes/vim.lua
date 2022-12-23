@@ -228,7 +228,8 @@ solarized.highlights = {
   -- }}}
 
   --{{{ TELESCOPE
-
+  TelescopeSelection = {fg = colors.fg},
+  TelescopeMatching = {fg = colors.fg, reverse = true},
   --}}}
 
   --{{{ DASHBOARD
