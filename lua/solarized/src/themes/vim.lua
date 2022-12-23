@@ -228,9 +228,9 @@ solarized.highlights = {
   -- }}}
 
   --{{{ TELESCOPE
-  TelescopePreviewTitle = { fg = colors.fg, bg = },
-  TelescopeResultsTitle = { fg = colors.fg, bg = },
-  TelescopePromptTitle = { fg = colors.fg, bg = },
+  TelescopePreviewTitle = { fg = colors.fg, bg = colors.bg},
+  TelescopeResultsTitle = { fg = colors.fg, bg = colors.bg},
+  TelescopePromptTitle = { fg = colors.fg, bg = colors.bg},
 
   TelescopeSelection = { fg = colors.yellow },
   TelescopeMatching = { fg = colors.yellow, reverse = true },
